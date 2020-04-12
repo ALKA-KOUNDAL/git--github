@@ -3,4 +3,4 @@
 *THERE WILL BE A HOPE
 -a hope of change.
 ##now to see the diff check
--here is this diff.
+-here is this diff BW STAGIN AREA AND LOCAL REPO.
