@@ -1,2 +1,2 @@
 # git--github
-itiation peoject to work
+itiation project to work
