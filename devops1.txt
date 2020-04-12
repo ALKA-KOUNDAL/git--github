@@ -4,3 +4,5 @@
 -a hope of change.
 ##now to see the diff check
 -here is this diff BW STAGIN AREA AND LOCAL REPO.
+##AGAIN A CHANGE TO CHECK
+-hello there.
