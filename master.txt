@@ -1,2 +1,0 @@
-hi this file is of master branch.
-again a change for commit tree.
