@@ -1,10 +1,3 @@
-my first filein the project of github.:)
-now se the new change in github.
-
-modify for user1
-
-check to reset again
-
--this ts the tag defining theheadiing of the web page
--modify
+*CHANGE IN THE CONTENT OF FILE1
+	-a change to check the rebase setting
 
