@@ -1,9 +1,6 @@
 *HELLO INTRO
 	-this is the intro part to check.
 
-*ADD CONTENT
-	-added the content for rebase commit.
-
 *change in gf1
 	-this is the change second time..
 	-this is the change second time.
