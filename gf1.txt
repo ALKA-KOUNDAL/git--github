@@ -4,5 +4,5 @@
 *change in gf1
 	-this is the change second time..
 	-this is the change second time.
-	-add new file in gf1.
+	-add new file in gf1 to reset.
 
