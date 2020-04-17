@@ -1,5 +1,5 @@
 *NEW FILE IN GF2.
 	-a file here..
 	-change after quiting rebase.
-	-add second time for tagging.
+	-add reset.
 	-change for reset.
